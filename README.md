@@ -4,6 +4,4 @@ This is an example of a script that I wrote in Python in order to help automate 
 
 ## Usage
 
-Usage:
-
     $ printerbilling.py file1 file2
